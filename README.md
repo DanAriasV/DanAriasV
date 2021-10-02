@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanAriasV
-- 👀 I’m interested in C#, C++, JAVA, REACT NATIVE, HTML
+- 👀 I’m interested in C#, C++, JAVA, REACT NATIVE, HTML, CSS
 - 🌱 I’m currently learning PHYTON, PHP, JVASCRIPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
